@@ -13,6 +13,6 @@
   },
   "description": "TypeScript Course",
   "keywords": ["TypeScript", "Learning"],
-  "productionBaseUrl": "/ts-course" ,
+  "productionBaseUrl": "ts-course" ,
   "csvPath": "./out/lessons.csv"
 }
