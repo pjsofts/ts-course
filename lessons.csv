@@ -1,0 +1,5 @@
+order,sectionTitle,lessonTitle,slug,sectionIcon,filePath,description
+01A,Intro,Introduction,Intro/intro,info-circle,/lessons/Intro/intro,The introduction to this course.
+01B,Intro,What is TypeScript,Intro/what-is-ts,info-circle,/lessons/Intro/what-is-ts,What is TypeScript
+02A,Setup,Hello TypeScript,Setup/hello-typescript,dumpster-fire,/lessons/Setup/hello-typescript,Setting up TypeScript
+03A,TypeScript Language,Variables and Values,TypeScript-Language/Variables-Values,file-code,/lessons/TypeScript-Language/Variables-Values,Variable and Values
